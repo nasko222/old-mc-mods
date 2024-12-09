@@ -1,0 +1,11 @@
+release-date:1733761367000
+compile-date:1733761367000
+launch-method:classicmp
+launch-method-link:
+url:https://github.com/nasko222/old-mc-mods/raw/refs/heads/main/0.30smpmod_v0.22.jar
+proxy-args:-Dhttp.proxyHost=betacraft.uk -Dhttp.proxyPort=11702
+other-name:SMPMOD v0.22
+protocolVersion:classic_7
+macos-mousefix:true
+resize-applet:true
+file-ver:1
